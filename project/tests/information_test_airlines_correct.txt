@@ -1,0 +1,4 @@
+410,"Aerocondor",\N,"2B","ARD","AEROCONDOR","Portugal","Y"
+10,"40-Mile Air",\N,"Q5","MLA","MILE-AIR","United States","Y"
+13,"Ansett Australia",\N,"AN","AAA","ANSETT","Australia","Y"
+14,"Abacus International",\N,"1B","","","Singapore","Y"
